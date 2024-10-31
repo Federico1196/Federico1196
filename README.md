@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Federico1196
 - 👀 I’m interested in Web and mobile development and software dev.
 - 🌱 I’m currently programming in HTML, CSS, JavaScript, Java and C++.
+- 📚 I'm working on my Data Analyst skills
 - 💞️ I’m looking to collaborate on web and mobile projects
 
 
